@@ -68,20 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# NoteKeeper-App
-Note Keeper App build in react js 
-
-Using Material UI library - https://mui.com/ for handling UI
-
-Using React Hooks, React UseState, UseRefrence, Dependencies like "react-beautiful-dnd" used id react older versions up to 17.0 , I am using the react version 18.2.0 -> So, I am using "@hello-pangea/dnd" for Dragging and Dropping functionality.
-
-NoteKeeper app is the clone project of google note keeper app , so the functionality is similar to that.
-
--> User can easily take a note 
-
--> Make their notes rearrange/reorder according to their prefrence ( using - @hello-pangea/dnd)
-
--> Archive and Unarchive their notes
-
--> Undo and Delete their notes
