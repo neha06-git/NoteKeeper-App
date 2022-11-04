@@ -85,3 +85,6 @@ NoteKeeper app is the clone project of google note keeper app , so the functiona
 -> Archive and Unarchive their notes
 
 -> Undo and Delete their notes
+
+## Deploy on Netlify
+### Deployment Link - https://notekeeperclone.netlify.app/
